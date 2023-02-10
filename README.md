@@ -10,6 +10,7 @@ Use `null-provider` and execute an echo command locally on your machine.
 
 Details on the usage of `null-provider` can be found [here](https://registry.terraform.io/providers/hashicorp/null/latest/docs)
 
+### How to use
 1. Clone the repo
 ```
 git clone https://github.com/GitHuberkata/project-local-state.git
