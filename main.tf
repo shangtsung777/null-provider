@@ -1,4 +1,4 @@
-#### NULL PROVIDER ####
+#### NULL PROVIDER #####
 terraform {
   required_providers {
     null = {
